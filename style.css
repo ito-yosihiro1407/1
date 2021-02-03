@@ -75,16 +75,10 @@ footer {
     display: block;
   }
   .step-box {
-    width: 60%;
+    width: 90%;
     margin: 20px auto;
   }
   .step-box:last-child {
     margin-right: auto;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .step-box {
-    width: 90%;
   }
 }
